@@ -1,0 +1,7 @@
+#include <Stdio.h>
+
+int main(int argc, char const *argv[])
+{
+    printf("Hello C!");
+    return 0;
+}
